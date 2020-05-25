@@ -20,3 +20,9 @@ Installation:
 - URL -> URL sur le domaine
 - Entrez le domaine requis
 - A droite, appuyez sur + et entrez le domaine suivant
+
+Previews:
+
+![](previews/moodle-preview.png)
+![](previews/ent-grey-preview.png)
+![](previews/ent-red-preview.png)
